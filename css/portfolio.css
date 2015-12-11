@@ -204,6 +204,7 @@ hr.small {
     color: #fff;
 }
 
+/* seperators */
 #as_1_sep{
     background: url(../img/seperators/sep_1.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
